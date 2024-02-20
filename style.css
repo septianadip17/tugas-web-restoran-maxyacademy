@@ -24,7 +24,7 @@ header{
   align-items: center;
   justify-content: space-between;
   padding: 20px 10%;
-  background-image: url(img/banner-bg.jpg);
+  background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 .logo img{
